@@ -24,7 +24,7 @@ function Navbar() {
         </Link>
         <Link to="/SignUp">
           {" "}
-          <button className="bg-green-500 p-2 rounded-md text-sm font-bold w-20">
+          <button className="bg-green-500 p-2 rounded-md text-sm font-bold w-20s">
             SignUp
           </button>
         </Link>
